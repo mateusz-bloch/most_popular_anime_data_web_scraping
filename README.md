@@ -10,4 +10,4 @@ max specifies the maximum number of records retrieved and is rounded to the near
 
 ## Example
 
-<img src="readme.png" alt="1" style="height: 300px; width:2000px;"/>
+<img src="readme.png" alt="1" style="height: 200px; width:2000px;"/>
